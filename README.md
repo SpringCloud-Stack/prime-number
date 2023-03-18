@@ -4,3 +4,6 @@
   * **And configured default spring cache, to improve the perfomance**
   * **And it's default Response type is JSON, if we pass Access Header type as "application/xml", we get XML as response**
   
+# API URL:
+  * **http://localhost:8080/api/v1/{initialValue}*
+  
